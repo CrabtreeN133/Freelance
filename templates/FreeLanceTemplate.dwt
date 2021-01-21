@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/FreeLanceStyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<Div id="Wrapper">
+
+  <div id="Banner">
+    <p>Content for  id "Banner" Goes Here</p>
+    <p>&nbsp;</p>
+  </div>
+	
+  <div class="main">
+    <p>Content for  class "main" Goes Here</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </div>
+	
+	<div id="footer">Content for  id "footer" Goes Here</div>
+	
+</div> 
+
+	
+	
+</body>
+</html>
